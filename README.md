@@ -1,6 +1,6 @@
 # File-Update-Algorithm
 
-git clone https://github.com/yourusername/File-Update-Algorithm.git
+git clone https://github.com/Stevenmarathias/File-Update-Algorithm.git
 cd File-Update-Algorithm
 
 mkdir src
